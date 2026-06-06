@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "slug": "corestrat-ai-analytics",
+    "order": 1,
+    "listingTitle": "Corestrat Ai Analytics",
+    "listingImage": "/assets/img/home3/portfolio-img1.jpg",
+    "detailsTitle": "Actionable Insights through Advanced Data Analysis.",
+    "category": [
+      "AI & Analytics",
+      "Data Science"
+    ],
+    "details": {
+      "pageTitle": "Corestrat Ai Analytics Project",
+      "tags": [
+        "AI Integration",
+        "Data Insights",
+        "Deep Learning",
+        "Strategy"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "Technology / Analytics",
+        "clients": "Corestrat Ai",
+        "solution": "Analytics Platform",
+        "date": "April 2022",
+        "link": "corestrat.ai"
+      },
+      "summary": {
+        "clientNeeds": "Businesses needed to transform complex datasets into practical strategies to make informed decisions. The challenge was uncovering hidden trends in sophisticated data and providing tailored solutions for diverse sectors like finance and healthcare.",
+        "ourApproach": "We integrated AI and deep learning to enhance predictive analytics. Our team focused on building a user-friendly interface with intuitive design, allowing non-technical users to seamlessly interact with complex data through customizable dashboards."
+      },
+      "services": {
+        "description": "Core features and services provided for the analytics platform:",
+        "points": [
+          "Advanced Data Insights & Modeling",
+          "AI and Deep Learning Integration",
+          "Industry-Specific Analytics Solutions",
+          "User-Friendly Intuitive Interface"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Key achievements and impact of the project:",
+        "points": [
+          "Empowered clients with actionable insights",
+          "Optimized operations and increased revenue",
+          "Enhanced real-time decision-making capabilities",
+          "Strengthened market position through innovation",
+          "Simplified complex data for actionable growth"
+        ]
+      },
+      "testimonial": {
+        "content": "Corestrat Analytics showcases our ability to harness the power of data and technology to deliver impactful business solutions. Let us help your business thrive in the digital age!",
+        "clientName": "TheAlgrow Team"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "golden-mirror-fashion",
+    "order": 2,
+    "listingTitle": "Golden Mirror Fashion",
+    "listingImage": "/assets/img/home3/portfolio-img2.jpg",
+    "detailsTitle": "Seamless Online Shopping for Premium Fashion.",
+    "category": [
+      "Digital Marketing",
+      "E-Commerce"
+    ],
+    "details": {
+      "pageTitle": "Golden Mirror Fashion E-Commerce",
+      "tags": [
+        "E-Commerce",
+        "Fashion Retail",
+        "UX Design",
+        "SEO"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "Fashion & Retail",
+        "clients": "Golden Mirror Fashion",
+        "solution": "E-commerce Website",
+        "date": "June 2024",
+        "link": "goldenmirrorfashion.com"
+      },
+      "summary": {
+        "clientNeeds": "The brand required a platform that balanced high-end luxury aesthetics with functional e-commerce design. It needed to manage a vast product range while ensuring smooth navigation and optimal performance during peak traffic.",
+        "ourApproach": "We created a visually stunning, responsive layout reflecting luxury appeal. Our development included advanced filtering, secure payment gateways, and SEO-optimized content to target modern fashion enthusiasts across all devices."
+      },
+      "services": {
+        "description": "Key features implemented for the fashion portal:",
+        "points": [
+          "Elegant Luxury Brand Design",
+          "Advanced Product Filtering & Navigation",
+          "Secure Multi-Option Payment Gateway",
+          "Social Media & SEO Integration"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Results achieved for the fashion brand:",
+        "points": [
+          "Successfully launched striking e-commerce platform",
+          "Increased sales through intuitive shopping",
+          "Improved customer engagement metrics",
+          "Established brand as premium fashion destination",
+          "Flawless performance across all screen sizes"
+        ]
+      },
+      "testimonial": {
+        "content": "Golden Mirror Fashion perfectly represents our brand's identity and offers an incredible shopping experience. The team's professionalism brought our vision to life. Highly recommended!",
+        "clientName": "Golden Mirror Fashion Management"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "progiez",
+    "order": 3,
+    "listingTitle": "Progiez",
+    "listingImage": "/assets/img/home3/portfolio-img3.jpg",
+    "detailsTitle": "Lightweight Platform Focused on Simplicity.",
+    "category": [
+      "App",
+      "Website",
+      "Digital Marketing"
+    ],
+    "details": {
+      "pageTitle": "Progiez Web Platform",
+      "tags": [
+        "Development",
+        "Responsive Design",
+        "JS Interactivity",
+        "UX"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "SaaS / Web Services",
+        "clients": "Progiez Team",
+        "solution": "Web & Mobile Platform",
+        "date": "July 2024",
+        "link": "progiez.com"
+      },
+      "summary": {
+        "clientNeeds": "The goal was to create a lightweight, simplified interface that works seamlessly across all devices. We needed to ensure smooth rendering and interaction while solving cross-browser compatibility puzzles.",
+        "ourApproach": "Using modern web technologies, we built a responsive layout focused on performance. We implemented dynamic content rendering with JavaScript and optimized CSS for modularity, maintaining a clean and intuitive user experience."
+      },
+      "services": {
+        "description": "Development highlights for the Progiez platform:",
+        "points": [
+          "Responsive Cross-Device Layout",
+          "Dynamic JS Content Rendering",
+          "Modular Optimized CSS Framework",
+          "Clean Intuitive UI/UX Design"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Project outcome and efficiency:",
+        "points": [
+          "Delivered highly interactive web platform",
+          "Enhanced user engagement rates",
+          "Established scalable foundation for future",
+          "Optimized loading times through code minimization",
+          "100% responsive performance on mobile"
+        ]
+      },
+      "testimonial": {
+        "content": "Progiez is a lightweight, web-based platform designed with a focus on simplicity and functionality, achieving a strong foundation for scaling with additional features.",
+        "clientName": "TheAlgrow Project Lead"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "apna-vista",
+    "order": 4,
+    "listingTitle": "Apna Vista",
+    "listingImage": "/assets/img/home3/portfolio-img4.jpg",
+    "detailsTitle": "Simplifying Rental Property Search in India.",
+    "category": [
+      "App",
+      "Website",
+      "Real Estate"
+    ],
+    "details": {
+      "pageTitle": "Apna Vista Rental Platform",
+      "tags": [
+        "Kotlin",
+        "Property Tech",
+        "API Integration",
+        "UI/UX"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "Real Estate / PropTech",
+        "clients": "Apna Vista",
+        "solution": "Web & Mobile App",
+        "date": "August 2024",
+        "link": "apnavista.com"
+      },
+      "summary": {
+        "clientNeeds": "Bridging the gap between landlords and tenants in the complex Indian rental market. Requirements included real-time data sync between web and app, and compliance with strict Play Store guidelines for the Android launch.",
+        "ourApproach": "We designed a robust platform with advanced filtering and Kotlin-based mobile development. Using REST APIs for real-time synchronization and advanced caching, we ensured a fast, secure, and user-friendly experience for property management."
+      },
+      "services": {
+        "description": "Key features and technologies used:",
+        "points": [
+          "Comprehensive Property List Management",
+          "Dynamic Advanced Search Filters",
+          "Kotlin Mobile App Development",
+          "Secure End-to-End Data Encryption"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Impact on the rental property market:",
+        "points": [
+          "Enhanced landlords-tenant accessibility",
+          "Successful high-engagement app launch",
+          "Real-time data synchronization achieved",
+          "Optimized load times via caching",
+          "Full Google Play Store compliance"
+        ]
+      },
+      "testimonial": {
+        "content": "Apna Vista makes property rentals seamless and efficient. Our growing user base is a testament to the platform's intuitive design and reliability.",
+        "clientName": "Apna Vista Founder"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "tristay",
+    "order": 5,
+    "listingTitle": "Tristay",
+    "listingImage": "/assets/img/home3/portfolio-img1.jpg",
+    "detailsTitle": "Rental Property Platform for Tricity Area.",
+    "category": [
+      "App",
+      "Website",
+      "Rental Service"
+    ],
+    "details": {
+      "pageTitle": "TriStay Rental Platform",
+      "tags": [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "AWS"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "PropTech",
+        "clients": "Tristay",
+        "solution": "Full-Stack Web & App",
+        "date": "September 2022",
+        "link": "tristay.in"
+      },
+      "summary": {
+        "clientNeeds": "The Tricity area (Chandigarh, Mohali, Panchkula) lacked a centralized, verified platform for rental property. There was a critical need to bridge the communication gap between owners and renters efficiently and securely.",
+        "ourApproach": "We built a full-stack solution using React.js, Node.js, and MongoDB, hosted on AWS for scalability. The platform includes property verification workflows and integrated contact tools for direct owner-renter communication."
+      },
+      "services": {
+        "description": "Technological stack and features:",
+        "points": [
+          "Verified Property Listing Workflow",
+          "Location-Based Search Filters",
+          "Full-Stack Web & Android App",
+          "AWS Scalable Cloud Hosting"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Achievements in market penetration:",
+        "points": [
+          "Trusted rental platform for Tricity",
+          "Streamlined property hunting process",
+          "Increased verified property authenticity",
+          "Faster decision-making for renters",
+          "Sustainable AWS cloud infrastructure"
+        ]
+      },
+      "testimonial": {
+        "content": "TriStay has quickly gained recognition as a trusted name in the rental market, streamlining the process for both owners and tenants.",
+        "clientName": "TheAlgrow Team"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "weselldatax",
+    "order": 6,
+    "listingTitle": "WeSellDataX",
+    "listingImage": "/assets/img/home3/portfolio-img2.jpg",
+    "detailsTitle": "Premium Lead Generation Data Platform.",
+    "category": [
+      "E-Commerce",
+      "Website",
+      "Data Services"
+    ],
+    "details": {
+      "pageTitle": "WeSellDataX Digital Platform",
+      "tags": [
+        "Lead Generation",
+        "Digital Sales",
+        "Security",
+        "Performance"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "B2B Data / Lead Gen",
+        "clients": "WeSellDataX",
+        "solution": "Digital Product Ecommerce",
+        "date": "October 2024",
+        "link": "weselldatax.com"
+      },
+      "summary": {
+        "clientNeeds": "Marketers needed a high-performing, secure platform to access the 'top 1%' of decision-makers. The challenge was building a bold, high-trust digital environment to handle premium digital assets securely for a global audience.",
+        "ourApproach": "We designed a frictionless user journey from data discovery to download. Focusing on minimalism, clarity, and speed, we implemented instant post-purchase downloads and secure navigation to reflect the brand's premium identity."
+      },
+      "services": {
+        "description": "Premium features developed for the platform:",
+        "points": [
+          "Curated Country-Wise Data Segments",
+          "Frictionless User Journey Discovery",
+          "Instant Digital Download Flow",
+          "Performance-Driven Responsive Site"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Market impact and brand positioning:",
+        "points": [
+          "Established trust in data selling niche",
+          "Frictionless purchase-to-download process",
+          "Global scalability through 24/7 site",
+          "Strengthened B2B outreach authority",
+          "100% secure transactional environment"
+        ]
+      },
+      "testimonial": {
+        "content": "Our goal was to build a high-performing, reliable, and secure platform that reflects the brand’s bold identity. The result is a premium, frictionless experience.",
+        "clientName": "Marketing Director"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "cybrixs",
+    "order": 7,
+    "listingTitle": "Cybrixs",
+    "listingImage": "/assets/img/home3/portfolio-img3.jpg",
+    "detailsTitle": "Future-Ready IT Solutions Hub.",
+    "category": [
+      "Website",
+      "IT Services",
+      "Cybersecurity"
+    ],
+    "details": {
+      "pageTitle": "Cybrixs IT Solutions",
+      "tags": [
+        "Software Dev",
+        "Cybersecurity",
+        "PaaS",
+        "IT Support"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "IT Infrastructure",
+        "clients": "Cybrixs",
+        "solution": "Digital Services Hub",
+        "date": "November 2024",
+        "link": "cybrixs.net"
+      },
+      "summary": {
+        "clientNeeds": "Businesses required a centralized, sophisticated hub for scalable technology services ranging from agile software development to systems integration. The digital presence needed to reflect extreme technical expertise and professionalism.",
+        "ourApproach": "We developed a clean, professional layout that highlights a diverse service portfolio including PaaS and managed network services. Each page was strategically designed with strong CTAs to guide users through complex tech offerings easily."
+      },
+      "services": {
+        "description": "Comprehensive IT offerings available on the hub:",
+        "points": [
+          "Agile Software & PaaS Solutions",
+          "Advanced Cybersecurity Services",
+          "Managed Network Infrastructure",
+          "Professional Systems Integration"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Business impact for the IT brand:",
+        "points": [
+          "Centralized hub for modern organizations",
+          "Improved high-value user engagement",
+          "Strengthened tech partner positioning",
+          "Increased professional business inquiries",
+          "Consistent cross-device performance"
+        ]
+      },
+      "testimonial": {
+        "content": "Cybrixs successfully launched as a complete IT platform, enabling clients to access high-value digital solutions with technical ease and sophistication.",
+        "clientName": "Cybrixs Tech Lead"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "eximvita-international",
+    "order": 8,
+    "listingTitle": "Eximvita International",
+    "listingImage": "/assets/img/home3/portfolio-img4.jpg",
+    "detailsTitle": "Merchant Export Excellence Platform.",
+    "category": [
+      "Website",
+      "Export & Trade",
+      "Agro Products"
+    ],
+    "details": {
+      "pageTitle": "Eximvita Global Trade",
+      "tags": [
+        "Global Trade",
+        "Agro Export",
+        "Sustainability",
+        "International"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "International Trade",
+        "clients": "Eximvita International",
+        "solution": "Global Showcase Website",
+        "date": "December 2024",
+        "link": "eximvitainternational.com"
+      },
+      "summary": {
+        "clientNeeds": "As a merchant explorer, Eximvita needed to establish global credibility for exporting agro products and handcrafted items. The challenge was building an elegant digital gate for international buyers to explore diverse offerings.",
+        "ourApproach": "We focused on a product-centric presentation with high-resolution imagery. The design conveys quality and reliability, using clear navigation structures to allow global buyers to explore categories like eco-friendly candles and artisanal textiles."
+      },
+      "services": {
+        "description": "Global trade features implemented:",
+        "points": [
+          "Curated Export Product Catalog",
+          "Trust-Building Global Design",
+          "High-Resolution Visual Assets",
+          "Multi-Device Accessible Gateway"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "International market results:",
+        "points": [
+          "Enhanced global market visibility",
+          "Increased international buyer inquiries",
+          "Solidified position as trusted exporter",
+          "Seamless cross-border communication",
+          "Professional high-conversion storefront"
+        ]
+      },
+      "testimonial": {
+        "content": "Our commitment to quality and sustainability is now reflected in a digital presence that international buyers truly trust for global trade.",
+        "clientName": "Eximvita Management"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "sarathi-consulting",
+    "order": 9,
+    "listingTitle": "Sarathi Consulting",
+    "listingImage": "/assets/img/home3/portfolio-img1.jpg",
+    "detailsTitle": "Luxury Sustainable Resort Development.",
+    "category": [
+      "Website",
+      "Consulting",
+      "Real Estate"
+    ],
+    "details": {
+      "pageTitle": "Sarathi Resort Advisory",
+      "tags": [
+        "Resort Advisory",
+        "Sustainability",
+        "Luxury Branding",
+        "Business Strategy"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "Business Advisory / Hospitality",
+        "clients": "Sarathi Consulting",
+        "solution": "Integrated Web Platform",
+        "date": "January 2025",
+        "link": "sarathiconsulting.in"
+      },
+      "summary": {
+        "clientNeeds": "A sophisticated digital presence was required to reflect high-end resort advisory expertise. The platform needed to communicate end-to-end services from site selection and legal advisory to transformative guest experience design.",
+        "ourApproach": "We built a clean, intuitive design with high-quality visuals to explain complex business models. The interface focuses on luxury branding and sustainability, ensuring that future-focused resort developers can access advisory information seamlessly."
+      },
+      "services": {
+        "description": "Integrated resort development services:",
+        "points": [
+          "Strategic Site Selection & Acquisition",
+          "Architectural & Legal Advisory Support",
+          "Sustainable Business Planning",
+          "Full Launch & Operations Strategy"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Impact on the sector and client base:",
+        "points": [
+          "Positioned as luxury hospitality leader",
+          "Increased high-net-worth engagement",
+          "Clear communication of advisory value",
+          "Seamless service discovery experience",
+          "Enhanced credibility in sustainable development"
+        ]
+      },
+      "testimonial": {
+        "content": "Our platform now reflects our commitment to excellence and sustainability in creating profitable and profitable transformative resort destinations.",
+        "clientName": "Sarathi Advisory Lead"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "aerovista",
+    "order": 10,
+    "listingTitle": "Aerovista",
+    "listingImage": "/assets/img/home3/portfolio-img2.jpg",
+    "detailsTitle": "Planned Sustainable Residential Township.",
+    "category": [
+      "Website",
+      "Real Estate",
+      "Urban Planning"
+    ],
+    "details": {
+      "pageTitle": "Aerovista Residential Hub",
+      "tags": [
+        "Residential Tech",
+        "Urban Design",
+        "Leads",
+        "Township"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "Real Estate / Township",
+        "clients": "Riverdale",
+        "solution": "Custom Showcase Platform",
+        "date": "February 2025",
+        "link": "aerovista.in"
+      },
+      "summary": {
+        "clientNeeds": "This 30-acre Spanish Revival project needed a digital landscape to showcase diverse options from villas to premium floors. The goal was to market luxury living combined with strategic location advantages near International Airport Road.",
+        "ourApproach": "We created an architectural showcase emphasizing Spanish aesthetic appeal. The platform uses spacious layouts and detailed visualizations of modern amenities, parks, and clubhouses to convert homebuyers into township residents."
+      },
+      "services": {
+        "description": "Township highlights and digital features:",
+        "points": [
+          "Interactive Villa & Floor Visuals",
+          "Strategic Location Advantage Maps",
+          "Modern Amenity Showcase Modules",
+          "Leads Management Web Interface"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Impact on Mohali's residential landscape:",
+        "points": [
+          "Transformed local living standards",
+          "Established as top choice for buyers",
+          "High-conversion digital leads engine",
+          "Clear presentation of luxury v/s value",
+          "Optimized SEO for township discovery"
+        ]
+      },
+      "testimonial": {
+        "content": "Aerovista sets new standards for integrated township living. Our commitment to quality is now perfectly showcased through this platform.",
+        "clientName": "Riverdale Management"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "slug": "doggzi",
+    "order": 11,
+    "listingTitle": "Doggzi",
+    "listingImage": "/assets/img/home3/portfolio-img3.jpg",
+    "detailsTitle": "Pet Services & Social Hub Concept.",
+    "category": [
+      "App",
+      "Website",
+      "Pet Tech"
+    ],
+    "details": {
+      "pageTitle": "Doggzi Digital Experience",
+      "tags": [
+        "Pet Tech",
+        "Community",
+        "Booking Engine",
+        "UX Design"
+      ],
+      "sliderImages": [
+        "/assets/img/innerpages/service-details-thumb-img1.jpg",
+        "/assets/img/innerpages/service-details-thumb-img2.jpg",
+        "/assets/img/innerpages/service-details-thumb-img3.jpg"
+      ],
+      "info": {
+        "industry": "Pet Care / Technology",
+        "clients": "Doggzi Team",
+        "solution": "App & Web Gateway",
+        "date": "March 2025",
+        "link": "doggzi.com"
+      },
+      "summary": {
+        "clientNeeds": "Pet owners required a modern, friendly interface to manage services and connect within a pet-centric community. The goal was to create a fun yet highly professional platform for the growing pet-tech market.",
+        "ourApproach": "We designed an engaging UI/UX that blends playful aesthetics with powerful functionality. Our focus was on building a seamless booking engine for services while maintaining a fast and accessible web gateway for all users."
+      },
+      "services": {
+        "description": "Core pet-tech services provided:",
+        "points": [
+          "Engaging User-Centric UI Design",
+          "Integrated Service Booking Engine",
+          "Community Engagement Platform",
+          "Mobile-Optimized Web Experience"
+        ]
+      },
+      "galleryImages": [
+        "/assets/img/innerpages/portfolio-details-img1.jpg",
+        "/assets/img/innerpages/portfolio-details-img2.jpg",
+        "/assets/img/innerpages/portfolio-details-img3.jpg"
+      ],
+      "results": {
+        "description": "Visionary outcome for the pet brand:",
+        "points": [
+          "Modernized pet service accessibility",
+          "Established engaging pet-tech brand",
+          "High engagement in social modules",
+          "Streamlined booking workflows",
+          "Scalable pet-centric digital foundation"
+        ]
+      },
+      "testimonial": {
+        "content": "Doggzi represents the future of pet-tech, combining community warmth with cutting-edge digital service management.",
+        "clientName": "TheAlgrow Project Lead"
+      },
+      "finalImage": "/assets/img/innerpages/portfolio-details-img4.jpg"
+    }
+  }
+]
