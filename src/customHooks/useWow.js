@@ -21,21 +21,19 @@ export const useWow = () => {
         setWow(instance);
       }
     };
-
     initWow();
-
     return () => {
       if (wow) {
         wow.stop();
       }
     };
-  }, []); // Empty dependency array to run only once on mount
+  }, []); // runs only once on mount
 
   useEffect(() => {
     if (wow) {
       wow.sync();
-    } , [wow]); 
-  }, [pathname, wow]); // Run when pathname changes and wow is available
+    }
+  }, [pathname, wow]); // 👈 closing brace is here, NOT inside
 
   return wow;
 };
