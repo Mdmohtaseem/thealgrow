@@ -7,6 +7,7 @@ export default function useInViewCounter(ref, start, end, speed = 50) {
 
   useEffect(() => {
     if (!ref?.current) return;
+    const node = ref.current; // 👈 save ref.current to a variable
 
     const observer = new IntersectionObserver(
       ([entry]) => {
@@ -17,19 +18,16 @@ export default function useInViewCounter(ref, start, end, speed = 50) {
       { threshold: 0.6 }
     );
 
-    observer.observe(ref.current);
-
+    observer.observe(node); // 👈 use node
     return () => {
-      if (ref.current) observer.unobserve(ref.current);
+      observer.unobserve(node); // 👈 use node (no need for if-check now)
     };
   }, [ref, hasStarted]);
 
   useEffect(() => {
     if (!hasStarted) return;
-
     let current = start;
     const increment = end > start ? 1 : -1;
-
     const interval = setInterval(() => {
       current += increment;
       setCount(current);
@@ -37,7 +35,6 @@ export default function useInViewCounter(ref, start, end, speed = 50) {
         clearInterval(interval);
       }
     }, speed);
-
     return () => clearInterval(interval);
   }, [hasStarted, start, end, speed]);
 
