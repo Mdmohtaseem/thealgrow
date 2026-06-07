@@ -1,9 +1,10 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { usePathname } from 'next/navigation';
 
 export const useWow = () => {
   const pathname = usePathname();
+  const wowRef = useRef(null); // 👈 use ref instead of state
   const [wow, setWow] = useState(null);
 
   useEffect(() => {
@@ -18,22 +19,23 @@ export const useWow = () => {
           live: true,
         });
         instance.init();
+        wowRef.current = instance; // 👈 store in ref
         setWow(instance);
       }
     };
     initWow();
     return () => {
-      if (wow) {
-        wow.stop();
+      if (wowRef.current) {
+        wowRef.current.stop(); // 👈 use ref in cleanup (no dependency needed)
       }
     };
-  }, []); // runs only once on mount
+  }, []); // ✅ empty array is now valid, no ESLint complaint
 
   useEffect(() => {
     if (wow) {
       wow.sync();
     }
-  }, [pathname, wow]); // 👈 closing brace is here, NOT inside
+  }, [pathname, wow]);
 
   return wow;
 };
