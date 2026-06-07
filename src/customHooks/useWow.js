@@ -34,7 +34,7 @@ export const useWow = () => {
   useEffect(() => {
     if (wow) {
       wow.sync();
-    }
+    } , [wow]); 
   }, [pathname, wow]); // Run when pathname changes and wow is available
 
   return wow;
